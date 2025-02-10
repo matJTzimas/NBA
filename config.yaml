@@ -1,0 +1,10 @@
+
+experiment_folder: "./output"
+# 
+keep_player_stats: ['MIN', 'FGM', 'FGA', 'FG_PCT', 'FG3M', 'FG3A', 'FG3_PCT', 'FTM',
+       'FTA', 'FT_PCT', 'OREB', 'DREB', 'REB', 'AST', 'TOV', 'STL', 'BLK',
+       'BLKA', 'PF', 'PFD', 'PTS', 'PLUS_MINUS']
+
+seasons_training: []
+
+data_normalization: False
